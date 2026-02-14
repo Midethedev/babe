@@ -442,7 +442,7 @@ export default function ValentinePage() {
                   >
                     <div className="absolute inset-0 bg-gradient-to-r from-deep-rose to-gold-leaf rounded-full blur-xl opacity-30 animate-pulse"></div>
                     <Image
-                      src="/images/one.jpg"
+                      src="/image/one.jpg"
                       alt="Us"
                       fill
                       className="rounded-full object-cover border-4 border-white shadow-2xl"
