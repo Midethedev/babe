@@ -284,7 +284,7 @@ export default function ValentinePage() {
                       />
                     </div>
                     <div className="mt-3">
-                      <p className="font-body text-sm text-gray-500 italic">Memory #{index + 1}</p>
+                      {/* <p className="font-body text-sm text-gray-500 italic">Memory #{index + 1}</p> */}
                     </div>
                   </motion.div>
                 ))}
